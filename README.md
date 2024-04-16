@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋 My name is Sandro Filia</h1>
 
-•  🔭  I’m currently working on building my e-commerce website.**
+•  🔭  I’m currently working on building my e-commerce website.
 
-• 🌱 I’m currently learning python and a little bit of javascript.**
+• 🌱 I’m currently learning python and a little bit of javascript.
 
 - 📫 How to reach me **https://www.facebook.com/SandroFilia27.**
 
