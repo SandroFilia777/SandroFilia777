@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋 My name is Sandro Filia</h1>
 
-•  🔭  I’m currently working on building my e-commerce website.
+<p align="center">•  🔭  I’m currently working on building my e-commerce website.</p>
 
-• 🌱 I’m currently learning python and a little bit of javascript.
+<p align="center">• 🌱 I’m currently learning python and a little bit of javascript.</p>
 
-• 📫 How to reach me **https://www.facebook.com/SandroFilia27.**
+<p align="center">• 📫 How to reach me https://www.facebook.com/SandroFilia27.</p>
 
-• ⚡ Fun facts: **I like cars, football and cycling.**
+<p align="center">• ⚡ Fun facts: **I like cars, football and cycling.**</p>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandroFilia777&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="sandrofilia" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandroFilia777&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="sandrofilia" /></p>
 
