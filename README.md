@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello 👋 My name is Sandro Filia</h1>
 
-<!--
-**SandroFilia777/SandroFilia777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+•  🔭  I’m currently working on building my e-commerce website.**
 
-Here are some ideas to get you started:
+• 🌱 I’m currently learning python and a little bit of javascript.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **https://www.facebook.com/SandroFilia27.**
+
+- ⚡ Fun fact: **I like cars, football and cycling.**
+
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandroFilia777&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="sandrofilia" /></p>
+
