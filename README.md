@@ -6,7 +6,7 @@
 
 <p align="center">• 📫 How to reach me https://www.facebook.com/SandroFilia27.</p>
 
-<p align="center">• ⚡ Fun facts: **I like cars, football and cycling.**</p>
+<p align="center">• ⚡ Fun facts: I like cars, football and cycling.</p>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandroFilia777&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="sandrofilia" /></p>
